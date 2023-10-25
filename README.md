@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project
+# Recipes
 
 > 
 
@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://davidcostacv.github.io/odin-recipes/)
 
 
 ## Getting Started
